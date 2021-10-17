@@ -25,7 +25,7 @@ In this work, we propose Synergistic Attention Network (SA-Net) to address the l
 </p>
 
 <p align="center">
-    <img src="./Figures/fig_visual_results.jpg" width="90%"/> <br />
+    <img src="./Figures/fig_visual_results.jpg" width="95%"/> <br />
     <em> 
     Figure 3: Qualitative comparison between our SA-Net and state-of-the-art light field SOD models.
     </em>
