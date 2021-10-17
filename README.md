@@ -1,3 +1,3 @@
 # [Learning Synergistic Attention for Light Field Salient Object Detection (BMVC 2021)](https://arxiv.org/abs/2104.13916)
 
-Official implementation for 'Learning Synergistic Attention for Light Field Salient Object Detection'
+Authors: [*Yi Zhang*](https://scholar.google.com/citations?user=NeHBHVUAAAAJ&hl=en), [*Geng Chen*](https://scholar.google.com/citations?user=sJGCnjsAAAAJ&hl=en), [*Qian Chen*](https://scholar.google.com/citations?user=Wz0lfcwAAAAJ&hl=en), [*YuJia Sun*](https://github.com/thograce), [*Yong Xia*](https://scholar.google.com/citations?user=Usw1jeMAAAAJ&hl=en), [*Olivier Deforges*](https://scholar.google.com/citations?user=c5DiiBUAAAAJ&hl=en), [*Wassim Hamidouche*](https://scholar.google.com/citations?user=ywBnUIAAAAAJ&hl=en), [*Lu Zhang*](https://luzhang.perso.insa-rennes.fr/)
