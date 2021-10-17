@@ -18,7 +18,7 @@ In this work, we propose Synergistic Attention Network (SA-Net) to address the l
 # Main Results
 
 <p align="center">
-    <img src="./Figures/fig_results.jpg" width="90%"/> <br />
+    <img src="./Figures/fig_results.jpg" width="85%"/> <br />
     <em> 
     Figure 2: Quantitative results for different models on three benchmark datasets. The best scores are in boldface. We train and test our SA-Net with the settings that are consistent with ERNet, which is the state-of-the-art model at present. - denotes no available result. ↑ indicates the higher the score the better, and vice versa for ↓.
     </em>
