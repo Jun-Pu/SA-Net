@@ -33,11 +33,11 @@ In this work, we propose Synergistic Attention Network (SA-Net) to address the l
 
 # Predictions
 
-Download the saliency prediction maps at [Google Drive]() or [OneDruve]().
+Download the saliency prediction maps at [Google Drive](https://drive.google.com/file/d/1dTrTO7FcQbWC00YEqGS7NP44YQ27Q4Yk/view?usp=sharing) or [OneDruve](https://1drv.ms/u/s!Ais1kZo7RR7Li3PTJptdtlkvIZo4?e=OKjdhX).
 
 # Inference
 
-Download the pretrained model at [Google Drive]() or [OneDrive]().
+Download the pretrained model at [Google Drive](https://drive.google.com/file/d/1d2ZJAgCGRq0TNC8oVWHy-_AZIV31ykef/view?usp=sharing) or [OneDrive](https://1drv.ms/u/s!Ais1kZo7RR7Li3SjH6Si_gn2XrSd?e=Yf0oNp).
 
 # Training
 
