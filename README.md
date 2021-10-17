@@ -24,7 +24,6 @@ In this work, we propose Synergistic Attention Network (SA-Net) to address the l
     </em>
 </p>
 
-
 <p align="center">
     <img src="./Figures/fig_visual_results.jpg" width="90%"/> <br />
     <em> 
@@ -32,6 +31,15 @@ In this work, we propose Synergistic Attention Network (SA-Net) to address the l
     </em>
 </p>
 
-# Pretiraned Model
+# Predictions
 
-The 
+Download the saliency prediction maps at [Google Drive]() or [OneDruve]().
+
+# Inference
+
+Download the pretrained model at [Google Drive]() or [OneDrive]().
+
+# Training
+
+Please refer to [SANet_train.py]().
+
