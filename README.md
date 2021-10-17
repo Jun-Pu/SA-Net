@@ -41,5 +41,5 @@ Download the pretrained model at [Google Drive](https://drive.google.com/file/d/
 
 # Training
 
-Please refer to [SANet_train.py]().
+Please refer to [SANet_train.py](https://github.com/PanoAsh/SA-Net/blob/main/SANet_train.py).
 
