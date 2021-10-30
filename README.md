@@ -56,5 +56,5 @@ For the RGB-D version of this work, please refer to [CMA-Net](https://github.com
      author={Zhang, Yi and Chen, Geng and Chen, Qian and Sun, Yujia and Xia, Yong and Deforges, Olivier and Hamidouche, Wassim and Zhang, Lu},
      journal={arXiv preprint arXiv:2104.13916},
      year={2021}
-}
+   }
 
