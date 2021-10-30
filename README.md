@@ -63,6 +63,12 @@ For the RGB-D version of this work, please refer to [CMA-Net](https://github.com
 
 ------
 
+# Contact
+
+Please feel free to drop an e-mail to yi.zhang1@insa-rennes.fr for any questions. 
+
+------
+
 # Citation
 
     @article{zhang2021learning,
