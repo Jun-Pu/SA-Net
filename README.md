@@ -43,7 +43,7 @@ Download the pretrained model at [Google Drive](https://drive.google.com/file/d/
 
 Please refer to [SANet_train.py](https://github.com/PanoAsh/SA-Net/blob/main/SANet_train.py).
 
-# Information 
+# Following Works 
 
 For an advanced transformer-based version of this work, please refer to [SA-Net-v2](https://github.com/PanoAsh/SA-Net-v2).
 
