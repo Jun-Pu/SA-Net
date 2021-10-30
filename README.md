@@ -45,7 +45,7 @@ Please refer to [SANet_train.py](https://github.com/PanoAsh/SA-Net/blob/main/SAN
 
 # Information 
 
-For an advanced transformer-based version of this work, please refer to [SA-NetV2](https://github.com/PanoAsh/SA-NetV2).
+For an advanced transformer-based version of this work, please refer to [SA-Net-v2](https://github.com/PanoAsh/SA-Net-v2).
 
 For the RGB-D version of this work, please refer to [CMA-Net](https://github.com/PanoAsh/CMA-Net).
 
