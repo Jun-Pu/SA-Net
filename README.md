@@ -15,9 +15,7 @@ Authors: [*Yi Zhang*](https://scholar.google.com/citations?user=NeHBHVUAAAAJ&hl=
 
 In this work, we propose Synergistic Attention Network (SA-Net) to address the light field salient object detection by establishing a synergistic effect between multimodal features with advanced attention mechanisms. Our SA-Net exploits the rich information of focal stacks via 3D convolutional neural networks, decodes the high-level features of multi-modal light field data with two cascaded synergistic attention modules, and predicts the saliency map using an effective feature fusion module in a progressive manner. Extensive experiments on three widely-used benchmark datasets show that our SA-Net outperforms 28 state-of-the-art models, sufficiently demonstrating its effectiveness and superiority.
 
-🔥🔥🔥 For an advanced transformer-based version of this work, please refer to [SA-Net-v2](https://github.com/PanoAsh/SA-Net-v2).
-
-🔥🔥🔥 For the RGB-D version of this work, please refer to [CMA-Net](https://github.com/PanoAsh/CMA-Net).
+🔥🔥🔥 For an advanced transformer-based version of this work, please contact yi.zhang1@insa-rennes.fr .
 
 :running: :running: :running: ***KEEP UPDATING***.
 
