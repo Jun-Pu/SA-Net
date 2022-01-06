@@ -63,10 +63,12 @@ Please feel free to drop an e-mail to yi.zhang1@insa-rennes.fr for any questions
 
 # Citation
 
-    @article{zhang2021learning,
-      title={Learning Synergistic Attention for Light Field Salient Object Detection},
-      author={Zhang, Yi and Chen, Geng and Chen, Qian and Sun, Yujia and Xia, Yong and Deforges, Olivier and Hamidouche, Wassim and Zhang, Lu},
-      journal={BMVC},
-      year={2021}
+    @misc{zhang2021learning,
+      title={Learning Synergistic Attention for Light Field Salient Object Detection}, 
+      author={Yi Zhang and Geng Chen and Qian Chen and Yujia Sun and Yong Xia and Olivier Deforges and Wassim Hamidouche and Lu Zhang},
+      year={2021},
+      eprint={2104.13916},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
     }
 
