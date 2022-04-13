@@ -56,7 +56,7 @@ Please refer to [SANet_train.py](https://github.com/PanoAsh/SA-Net/blob/main/SAN
 
 # Contact
 
-Please feel free to drop an e-mail to yi.zhang1@insa-rennes.fr for any questions. 
+Please feel free to drop an e-mail to yi.panoash@gmail.com for any questions. 
 
 ------
 
